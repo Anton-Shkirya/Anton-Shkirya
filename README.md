@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🌱 I’m currently learning Python in The Founder
+⚡ Fun fact: ...
 <!--
 **Anton-Shkirya/Anton-Shkirya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
