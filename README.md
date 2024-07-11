@@ -1,5 +1,8 @@
 ## Hi there 👋
-🌱 I’m currently learning Python in The Founder
+- I graduated from higher education institution
+- I’m currently learning Python in The Founder
+- I am working in IT related to medicine
+- I use SQL at work, struggling with PHP
 <!--
 **Anton-Shkirya/Anton-Shkirya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
